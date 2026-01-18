@@ -1,0 +1,109 @@
+/* Light theme (default) - Rosa & Dourado */
+:root,
+[data-theme="light"] {
+  /* Primary colors (Rose) */
+  --primary-50: #FFF5F5;
+  --primary-100: #FFE5E8;
+  --primary-200: #FFD6D6;
+  --primary-300: #E8B4B8;
+  --primary-400: #D88A8F;
+  --primary-500: #C86570;
+  --primary-600: #B34551;
+  --primary-700: #8F2A35;
+
+  /* Accent colors (Gold) */
+  --accent-50: #FFFBF0;
+  --accent-100: #FFF5DD;
+  --accent-200: #F4E5C3;
+  --accent-300: #D4AF37;
+  --accent-400: #B8941E;
+  --accent-500: #9A7A0F;
+  --accent-600: #7D6008;
+
+  /* Background colors */
+  --background: #FFFCF9;
+  --surface: #FFFFFF;
+  --surface-elevated: #FFFFFF;
+
+  /* Text colors */
+  --text-primary: #2C2C2C;
+  --text-secondary: #6B6B6B;
+  --text-tertiary: #9B9B9B;
+  --text-inverse: #FFFFFF;
+
+  /* Border colors */
+  --border-primary: #E5E5E5;
+  --border-secondary: #F0F0F0;
+
+  /* Status colors */
+  --success: #10B981;
+  --warning: #F59E0B;
+  --error: #EF4444;
+  --info: #3B82F6;
+}
+
+/* Dark theme - Roxo & Cyan */
+[data-theme="dark"] {
+  /* Primary colors (Purple) */
+  --primary-50: #1A0F2E;
+  --primary-100: #2D1B4E;
+  --primary-200: #3D2661;
+  --primary-300: #5C4A7F;
+  --primary-400: #7B6B9D;
+  --primary-500: #9A8BBB;
+  --primary-600: #B9AED9;
+  --primary-700: #D8CFF7;
+
+  /* Accent colors (Cyan) */
+  --accent-50: #001F29;
+  --accent-100: #003847;
+  --accent-200: #006B85;
+  --accent-300: #00D9FF;
+  --accent-400: #4EFFEF;
+  --accent-500: #88FFF5;
+  --accent-600: #B8FFFB;
+
+  /* Background colors */
+  --background: #0F0A1F;
+  --surface: #1A1330;
+  --surface-elevated: #241C40;
+
+  /* Text colors */
+  --text-primary: #FFFFFF;
+  --text-secondary: #B9AED9;
+  --text-tertiary: #7B6B9D;
+  --text-inverse: #0F0A1F;
+
+  /* Border colors */
+  --border-primary: #3D2661;
+  --border-secondary: #2D1B4E;
+
+  /* Status colors */
+  --success: #34D399;
+  --warning: #FBBF24;
+  --error: #F87171;
+  --info: #60A5FA;
+}
+
+/* Smooth transitions on theme change */
+* {
+  transition: background-color var(--transition-base),
+              color var(--transition-base),
+              border-color var(--transition-base),
+              box-shadow var(--transition-base);
+}
+
+/* Disable transitions on mount to prevent flash */
+.no-transition,
+.no-transition * {
+  transition: none !important;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

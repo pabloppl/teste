@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "test_001",
+    "customerName": "Maria Silva",
+    "customerLocation": "São Paulo, SP",
+    "customerAvatar": "https://i.pravatar.cc/150?img=5",
+    "rating": 5,
+    "comment": "Simplesmente apaixonada pelos produtos! A qualidade é excepcional e o atendimento foi impecável. Já fiz várias compras e sempre fico satisfeita. Super recomendo!",
+    "productId": "prod_002",
+    "isVerifiedPurchase": true,
+    "featured": true,
+    "createdAt": "2025-12-10T16:45:00Z",
+    "updatedAt": "2025-12-10T16:45:00Z"
+  },
+  {
+    "_id": "test_002",
+    "customerName": "Ana Carolina Mendes",
+    "customerLocation": "Rio de Janeiro, RJ",
+    "customerAvatar": "https://i.pravatar.cc/150?img=9",
+    "rating": 5,
+    "comment": "As presilhas são lindas demais! Recebi muitos elogios. A entrega foi rápida e o produto veio muito bem embalado. Com certeza voltarei a comprar.",
+    "productId": "prod_001",
+    "isVerifiedPurchase": true,
+    "featured": true,
+    "createdAt": "2025-12-18T14:20:00Z",
+    "updatedAt": "2025-12-18T14:20:00Z"
+  },
+  {
+    "_id": "test_003",
+    "customerName": "Juliana Rodrigues",
+    "customerLocation": "Belo Horizonte, MG",
+    "customerAvatar": "https://i.pravatar.cc/150?img=10",
+    "rating": 5,
+    "comment": "Melhor loja de acessórios para cabelo que já comprei! Os scrunchies de veludo são divinos e não estragam meu cabelo. Preço justo pela qualidade.",
+    "productId": "prod_007",
+    "isVerifiedPurchase": true,
+    "featured": true,
+    "createdAt": "2025-12-22T11:30:00Z",
+    "updatedAt": "2025-12-22T11:30:00Z"
+  },
+  {
+    "_id": "test_004",
+    "customerName": "Beatriz Costa",
+    "customerLocation": "Curitiba, PR",
+    "customerAvatar": "https://i.pravatar.cc/150?img=20",
+    "rating": 4,
+    "comment": "Produtos maravilhosos! A tiara é super confortável e não aperta. Uso o dia todo sem desconforto. Só gostaria que tivesse mais opções de cores.",
+    "productId": "prod_003",
+    "isVerifiedPurchase": true,
+    "featured": true,
+    "createdAt": "2025-12-28T09:15:00Z",
+    "updatedAt": "2025-12-28T09:15:00Z"
+  }
+]

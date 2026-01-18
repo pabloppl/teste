@@ -1,0 +1,274 @@
+[
+  {
+    "_id": "prod_001",
+    "name": "Presilha Rosa Gold com Pérolas",
+    "slug": "presilha-rosa-gold-perolas",
+    "description": "Elegante presilha em rosa gold adornada com pérolas artificiais de alta qualidade. Perfeita para ocasiões especiais ou para adicionar um toque sofisticado ao seu dia a dia.",
+    "shortDescription": "Presilha elegante com pérolas",
+    "price": 2499,
+    "compareAtPrice": 3499,
+    "category": "presilhas",
+    "categoryId": "cat_001",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/C86570/FFFFFF?text=Presilha+Rosa+Gold",
+        "alt": "Presilha Rosa Gold com Pérolas - Vista Frontal",
+        "isPrimary": true
+      }
+    ],
+    "stock": 45,
+    "sku": "HC-RG-PEARL-001",
+    "tags": ["bestseller", "sale", "elegant"],
+    "rating": {
+      "average": 4.8,
+      "count": 127
+    },
+    "featured": true,
+    "createdAt": "2025-11-15T10:00:00Z",
+    "updatedAt": "2026-01-02T14:30:00Z"
+  },
+  {
+    "_id": "prod_002",
+    "name": "Scrunchie de Veludo Bordô",
+    "slug": "scrunchie-veludo-bordo",
+    "description": "Scrunchie luxuoso em veludo macio na cor bordô. Material de alta qualidade que não danifica os fios e mantém o penteado por mais tempo.",
+    "shortDescription": "Scrunchie veludo premium",
+    "price": 1299,
+    "category": "scrunchies",
+    "categoryId": "cat_002",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/8B0000/FFFFFF?text=Scrunchie+Veludo",
+        "alt": "Scrunchie de Veludo Bordô",
+        "isPrimary": true
+      }
+    ],
+    "stock": 89,
+    "sku": "SCR-VEL-BOR-002",
+    "tags": ["bestseller", "new"],
+    "rating": {
+      "average": 4.9,
+      "count": 243
+    },
+    "featured": true,
+    "createdAt": "2025-12-01T10:00:00Z",
+    "updatedAt": "2026-01-03T09:15:00Z"
+  },
+  {
+    "_id": "prod_003",
+    "name": "Tiara Acolchoada Lavanda",
+    "slug": "tiara-acolchoada-lavanda",
+    "description": "Tiara acolchoada ultra confortável na delicada cor lavanda. Design moderno e feminino, perfeita para o dia a dia.",
+    "shortDescription": "Tiara confortável lavanda",
+    "price": 1899,
+    "category": "tiaras",
+    "categoryId": "cat_003",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/E6E6FA/8B008B?text=Tiara+Lavanda",
+        "alt": "Tiara Acolchoada Lavanda",
+        "isPrimary": true
+      }
+    ],
+    "stock": 56,
+    "sku": "TIA-ACO-LAV-003",
+    "tags": ["new", "trending"],
+    "rating": {
+      "average": 4.7,
+      "count": 98
+    },
+    "featured": true,
+    "createdAt": "2025-12-10T10:00:00Z",
+    "updatedAt": "2026-01-03T11:20:00Z"
+  },
+  {
+    "_id": "prod_004",
+    "name": "Kit Presilhas Minimalistas Douradas",
+    "slug": "kit-presilhas-minimalistas-douradas",
+    "description": "Conjunto de 5 presilhas minimalistas em metal dourado. Design clean e moderno, ideal para criar penteados sofisticados.",
+    "shortDescription": "Kit 5 presilhas douradas",
+    "price": 3499,
+    "compareAtPrice": 4299,
+    "category": "presilhas",
+    "categoryId": "cat_001",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/D4AF37/FFFFFF?text=Kit+Presilhas+Gold",
+        "alt": "Kit Presilhas Minimalistas Douradas",
+        "isPrimary": true
+      }
+    ],
+    "stock": 34,
+    "sku": "HC-KIT-MIN-004",
+    "tags": ["sale", "kit"],
+    "rating": {
+      "average": 4.6,
+      "count": 76
+    },
+    "featured": true,
+    "createdAt": "2025-11-20T10:00:00Z",
+    "updatedAt": "2026-01-02T16:45:00Z"
+  },
+  {
+    "_id": "prod_005",
+    "name": "Elástico Invisível Transparente",
+    "slug": "elastico-invisivel-transparente",
+    "description": "Pack com 10 elásticos invisíveis de alta resistência. Perfeitos para penteados discretos que não marcam os fios.",
+    "shortDescription": "Pack 10 elásticos invisíveis",
+    "price": 999,
+    "category": "elasticos",
+    "categoryId": "cat_004",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/F0F0F0/808080?text=Elastico+Invisivel",
+        "alt": "Elástico Invisível Transparente",
+        "isPrimary": true
+      }
+    ],
+    "stock": 156,
+    "sku": "ELA-INV-TRA-005",
+    "tags": ["bestseller"],
+    "rating": {
+      "average": 4.5,
+      "count": 312
+    },
+    "featured": true,
+    "createdAt": "2025-10-15T10:00:00Z",
+    "updatedAt": "2026-01-03T08:00:00Z"
+  },
+  {
+    "_id": "prod_006",
+    "name": "Grampo Borboleta com Cristais",
+    "slug": "grampo-borboleta-cristais",
+    "description": "Delicado grampo em formato de borboleta com aplicações de cristais coloridos. Adiciona um toque lúdico e brilhante.",
+    "shortDescription": "Grampo borboleta com brilho",
+    "price": 1799,
+    "category": "grampos",
+    "categoryId": "cat_005",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/FF69B4/FFFFFF?text=Grampo+Borboleta",
+        "alt": "Grampo Borboleta com Cristais",
+        "isPrimary": true
+      }
+    ],
+    "stock": 67,
+    "sku": "GRA-BOR-CRI-006",
+    "tags": ["new", "playful"],
+    "rating": {
+      "average": 4.9,
+      "count": 145
+    },
+    "featured": true,
+    "createdAt": "2025-12-05T10:00:00Z",
+    "updatedAt": "2026-01-03T10:30:00Z"
+  },
+  {
+    "_id": "prod_007",
+    "name": "Scrunchie Seda Floral",
+    "slug": "scrunchie-seda-floral",
+    "description": "Scrunchie em seda pura com estampa floral delicada. Luxuoso e suave, ideal para proteger os fios durante o sono.",
+    "shortDescription": "Scrunchie seda estampada",
+    "price": 2199,
+    "category": "scrunchies",
+    "categoryId": "cat_002",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/FFB6C1/8B0A50?text=Scrunchie+Seda",
+        "alt": "Scrunchie Seda Floral",
+        "isPrimary": true
+      }
+    ],
+    "stock": 42,
+    "sku": "SCR-SED-FLO-007",
+    "tags": ["luxury", "new"],
+    "rating": {
+      "average": 5.0,
+      "count": 89
+    },
+    "featured": true,
+    "createdAt": "2025-12-12T10:00:00Z",
+    "updatedAt": "2026-01-03T12:00:00Z"
+  },
+  {
+    "_id": "prod_008",
+    "name": "Tiara Trançada Caramelo",
+    "slug": "tiara-trancada-caramelo",
+    "description": "Tiara com design trançado na cor caramelo. Estilo boho-chic que combina com qualquer look casual.",
+    "shortDescription": "Tiara trançada boho",
+    "price": 1699,
+    "category": "tiaras",
+    "categoryId": "cat_003",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/D2691E/FFFFFF?text=Tiara+Trancada",
+        "alt": "Tiara Trançada Caramelo",
+        "isPrimary": true
+      }
+    ],
+    "stock": 51,
+    "sku": "TIA-TRA-CAR-008",
+    "tags": ["boho", "trending"],
+    "rating": {
+      "average": 4.7,
+      "count": 134
+    },
+    "featured": true,
+    "createdAt": "2025-11-28T10:00:00Z",
+    "updatedAt": "2026-01-02T15:20:00Z"
+  },
+  {
+    "_id": "prod_009",
+    "name": "Presilha Geométrica Prata",
+    "slug": "presilha-geometrica-prata",
+    "description": "Presilha moderna com design geométrico em metal prateado. Perfeita para looks contemporâneos e minimalistas.",
+    "shortDescription": "Presilha geométrica moderna",
+    "price": 1499,
+    "category": "presilhas",
+    "categoryId": "cat_001",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/C0C0C0/404040?text=Presilha+Geometrica",
+        "alt": "Presilha Geométrica Prata",
+        "isPrimary": true
+      }
+    ],
+    "stock": 78,
+    "sku": "HC-GEO-PRA-009",
+    "tags": ["modern", "minimalist"],
+    "rating": {
+      "average": 4.8,
+      "count": 167
+    },
+    "featured": true,
+    "createdAt": "2025-11-10T10:00:00Z",
+    "updatedAt": "2026-01-03T09:45:00Z"
+  },
+  {
+    "_id": "prod_010",
+    "name": "Kit Scrunchies Tons Pastel",
+    "slug": "kit-scrunchies-tons-pastel",
+    "description": "Conjunto de 6 scrunchies em tons pastel suaves. Cores: rosa, lilás, mint, pêssego, azul e amarelo bebê.",
+    "shortDescription": "Kit 6 scrunchies pastel",
+    "price": 2999,
+    "category": "scrunchies",
+    "categoryId": "cat_002",
+    "images": [
+      {
+        "url": "https://via.placeholder.com/800x800/FFB6D9/FF69B4?text=Kit+Scrunchies+Pastel",
+        "alt": "Kit Scrunchies Tons Pastel",
+        "isPrimary": true
+      }
+    ],
+    "stock": 93,
+    "sku": "SCR-KIT-PAS-010",
+    "tags": ["bestseller", "kit", "colorful"],
+    "rating": {
+      "average": 4.9,
+      "count": 278
+    },
+    "featured": true,
+    "createdAt": "2025-10-25T10:00:00Z",
+    "updatedAt": "2026-01-03T13:10:00Z"
+  }
+]

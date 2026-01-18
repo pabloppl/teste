@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(cat:*)",
+      "Bash(npm create:*)",
+      "Bash(npm init -y)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Bash(copy App.complete.tsx App.tsx /Y)"
+    ]
+  }
+}
