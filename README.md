@@ -185,14 +185,14 @@ Inclui dados realistas para prototipação:
 
 ## 📝 Licença
 
-Projeto criado para fins educacionais e de portfólio.
+Projeto criado para fins educacionais.
 
 ---
 
 ## 👤 Autor
 
-**PamPam Team**
+**Pablo Pereira Lopes**
 
 ---
 
-Desenvolvido com ❤️ usando React, TypeScript e Vite
+Desenvolvido com IA usando React, TypeScript e Vite
